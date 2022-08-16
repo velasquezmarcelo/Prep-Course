@@ -8,4 +8,4 @@ module.exports = async function () {
     directory: '_cache'
   })
   return style
-}
+}  
